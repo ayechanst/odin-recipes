@@ -1,0 +1,17 @@
+body {
+    background-color: bisque;
+}
+
+.link,
+#title {
+    text-align: center;
+}
+
+.side-dish {
+    background-color: darkred;
+}
+
+.image {
+    width: 400px;
+    height: 400px;
+}
