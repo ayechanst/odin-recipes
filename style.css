@@ -1,17 +1,25 @@
-body {
-    background-color: bisque;
-}
-
-.link,
-#title {
-    text-align: center;
-}
-
 .side-dish {
     background-color: darkred;
+    height: 300px;
+    width: auto;
 }
 
-.image {
-    width: 400px;
-    height: 400px;
+.main-course {
+    background-color: lightsalmon;
+
+}
+
+.dessert {
+    background-color: brown;
+
+}
+
+.lists{
+    text-align: center;
+    list-style: inside;
+}
+
+body {
+    background-color: bisque;
+    text-align: center;
 }
